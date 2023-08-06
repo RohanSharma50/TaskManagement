@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oNquLrP15sS8JDNRommeHS3fJxqorGXJE1AQHEs/FerZtxUnJnPkhe6oBxFUG3zoDqdmD1Z5a7ADo0sOTBmLvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dk530\\OneDrive\\Desktop\\Csharp\\MY PROJECT\\TaskManagement\\TaskManagement\\TaskManagement\\TaskManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dk530\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
